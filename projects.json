@@ -23,7 +23,7 @@
     {
         "name": "Swift Rat",
         "status": "open",
-        "desc": "A remote access tool for accessing a users pc. This is for educational purposes only and is not meant to be used.",
+        "desc": "A remote access tool for accessing a users pc. This is for educational purposes only.",
         "links": [
           {
             "info": "Repository",
