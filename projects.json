@@ -22,7 +22,7 @@
     },
     {
         "name": "Swift Rat",
-        "status": "unfinished",
+        "status": "open",
         "desc": "A remote access tool for accessing a users pc. This is for educational purposes only and is not meant to be used.",
         "links": [
           {
