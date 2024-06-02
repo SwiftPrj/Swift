@@ -21,9 +21,9 @@
       ]
     },
     {
-        "name": "Swift Rat",
+        "name": "Swift RAT",
         "status": "open",
-        "desc": "A remote access tool for accessing a users pc. This is for educational purposes only.",
+        "desc": "A remote access tool for accessing a users pc. This is for educational purposes only",
         "links": [
           {
             "info": "Repository",
