@@ -1,44 +1,56 @@
 [
-  {
-    "name": "Swift Client",
-    "status": "closed",
-    "desc": "Swift Minecraft Client is a Minecraft modification designed to gain an advantage against other players and as a tool to help you win your games and matches with undetectable bypasses and polished QoL features"
-  },
-  {
-    "name": "Swift HLL",
-    "status": "closed",
-    "desc": "Swift HLL is the name for a Hell Let Lose (HLL) modification to assist you in competitive games, using our proprietary kernel driver to remain 100% undetected"
-  },
-  {
-    "name": "Swift Injectable",
-    "status": "unfinished",
-    "desc": "For lack of a better name, this is an injectable CSGO/CS2 modification, to help you win your games and matches while going fully undetected, using our exclusive methods of hijacking the game's functionality",
-    "links": [
-      {
-        "info": "Repository",
-        "url": "https://github.com/SwiftPrj/SwiftInjectable"
-      }
-    ]
-  },
-  {
-    "name": "Crystal",
-    "status": "open",
-    "desc": "An interpreted programming language, parsed and written in C#",
-    "links": [
-      {
-        "info": "Repository",
-        "url": "https://github.com/SwiftPrj/Crystal"
-      }
-    ]
-  },
-  {
-    "name": "Swift Auth",
-    "status": "closed",
-    "desc": "A full-stack solution for authentication, basic username/email & password login and persistent login status"
-  },
-  {
-    "name": "Swift Upload",
-    "status": "unfinished",
-    "desc": "File hosting solution, like anonfiles or catbox.moe, with an easy to use API"
-  }
-]
+    {
+      "name": "Swift Client",
+      "status": "closed",
+      "desc": "Swift Minecraft Client is a Minecraft modification designed to gain an advantage against other players and as a tool to help you win your games and matches with undetectable bypasses and polished QoL features"
+    },
+    {
+      "name": "Swift HLL",
+      "status": "closed",
+      "desc": "Swift HLL is the name for a Hell Let Lose (HLL) modification to assist you in competitive games, using our proprietary kernel driver to remain 100% undetected"
+    },
+    {
+      "name": "Swift Injectable",
+      "status": "unfinished",
+      "desc": "For lack of a better name, this is an injectable CSGO/CS2 modification, to help you win your games and matches while going fully undetected, using our exclusive methods of hijacking the game's functionality",
+      "links": [
+        {
+          "info": "Repository",
+          "url": "https://github.com/SwiftPrj/SwiftInjectable"
+        }
+      ]
+    },
+    {
+        "name": "Swift Rat",
+        "status": "unfinished",
+        "desc": "A remote access tool for accessing a users pc. This is for educational purposes only and is not meant to be used.",
+        "links": [
+          {
+            "info": "Repository",
+            "url": "https://github.com/SwiftPrj/SwiftRat"
+          }
+        ]
+      },    
+    {
+      "name": "Crystal",
+      "status": "open",
+      "desc": "An interpreted programming language, parsed and written in C#",
+      "links": [
+        {
+          "info": "Repository",
+          "url": "https://github.com/SwiftPrj/Crystal"
+        }
+      ]
+    },
+    {
+      "name": "Swift Auth",
+      "status": "closed",
+      "desc": "A full-stack solution for authentication, basic username/email & password login and persistent login status"
+    },
+    {
+      "name": "Swift Upload",
+      "status": "unfinished",
+      "desc": "File hosting solution, like anonfiles or catbox.moe, with an easy to use API"
+    }
+  ]
+  
