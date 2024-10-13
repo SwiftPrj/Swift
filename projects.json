@@ -51,7 +51,7 @@
       "name": "Swift Driver",
       "status": "closed",
       "desc": "A proprietary kernel-driver. Used for memory operations (ex: Reading & Writing memory)"
-    }
+    },
     {
       "name": "Swift Upload",
       "status": "unfinished",
