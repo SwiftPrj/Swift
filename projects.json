@@ -7,12 +7,12 @@
     {
       "name": "Swift HLL",
       "status": "closed",
-      "desc": "Swift HLL is the name for a Hell Let Lose (HLL) modification to assist you in competitive games, using our proprietary kernel driver to remain 100% undetected"
+      "desc": "Swift HLL is the name for a Hell Let Loose (HLL) modification to assist you in competitive games, using our proprietary kernel driver to remain 100% undetected"
     },
     {
       "name": "Swift Injectable",
       "status": "unfinished",
-      "desc": "For lack of a better name, this is an injectable CSGO/CS2 modification, to help you win your games and matches while going fully undetected, using our exclusive methods of hijacking the game's functionality",
+      "desc": "For lack of a better name, this is an injectable CS2 modification, to help you win your games and matches while going fully undetected, using our exclusive methods of hijacking the game's functionality",
       "links": [
         {
           "info": "Repository",
@@ -21,13 +21,13 @@
       ]
     },
     {
-        "name": "Swift RAT",
-        "status": "open",
-        "desc": "A remote access tool for accessing a users pc. This is for educational purposes only",
+        "name": "Swift EAC",
+        "status": "unfinished",
+        "desc": "An attempt at a EAC Emulator.",
         "links": [
           {
             "info": "Repository",
-            "url": "https://github.com/SwiftPrj/SwiftRat"
+            "url": "https://github.com/SwiftPrj/SwiftEAC"
           }
         ]
       },    
@@ -47,6 +47,11 @@
       "status": "closed",
       "desc": "A full-stack solution for authentication, basic username/email & password login and persistent login status"
     },
+    {
+      "name": "Swift Driver",
+      "status": "closed",
+      "desc": "A proprietary kernel-driver. Used for memory operations (ex: Reading & Writing memory)"
+    }
     {
       "name": "Swift Upload",
       "status": "unfinished",
