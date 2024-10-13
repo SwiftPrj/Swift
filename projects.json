@@ -48,16 +48,16 @@
       "desc": "A proprietary kernel-driver. Used for memory operations (ex: Reading & Writing memory)"
     },
     {
-        "name": "Swift EAC",
-        "status": "unfinished",
-        "desc": "An attempt at a EAC Emulator.",
-        "links": [
-          {
-            "info": "Repository",
-            "url": "https://github.com/SwiftPrj/SwiftEAC"
-          }
-        ]
-    },    
+      "name": "Swift EAC",
+      "status": "unfinished",
+      "desc": "An attempt at a EAC Emulator",
+      "links": [
+        {
+          "info": "Repository",
+          "url": "https://github.com/SwiftPrj/SwiftEAC"
+        }
+      ]
+    },
     {
       "name": "Swift Upload",
       "status": "unfinished",
