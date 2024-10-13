@@ -21,17 +21,6 @@
       ]
     },
     {
-        "name": "Swift EAC",
-        "status": "unfinished",
-        "desc": "An attempt at a EAC Emulator.",
-        "links": [
-          {
-            "info": "Repository",
-            "url": "https://github.com/SwiftPrj/SwiftEAC"
-          }
-        ]
-      },    
-    {
       "name": "Crystal",
       "status": "open",
       "desc": "An interpreted programming language, parsed and written in C#",
