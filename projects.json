@@ -8,12 +8,7 @@
       "name": "Swift HLL",
       "status": "closed",
       "desc": "Swift HLL is the name for a Hell Let Loose (HLL) modification to assist you in competitive games, using our proprietary kernel driver to remain 100% undetected"
-      "links": [
-        {
-            "info": "Showcase",
-            "url": "https://www.youtube.com/watch?v=DUkq8zXWPmI"
-        }
-      ]
+      
     },
     {
       "name": "Swift Injectable",
