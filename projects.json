@@ -16,6 +16,17 @@
       ]
     },
     {
+      "name": "Swift CPU",
+      "status": "open",
+      "desc": "An emulated CPU & Kernel written in C++",
+      "links": [
+        {
+          "info": "Repository",
+          "url": "https://github.com/SwiftPrj/SwiftCPU"
+        }
+      ]
+    },
+    {
       "name": "Swift Injectable",
       "status": "unfinished",
       "desc": "For lack of a better name, this is an injectable CS2 modification, to help you win your games and matches while going fully undetected, using our exclusive methods of hijacking the game's functionality",
@@ -49,7 +60,7 @@
     },
     {
       "name": "Swift EAC",
-      "status": "unfinished",
+      "status": "open",
       "desc": "An attempt at a EAC Emulator",
       "links": [
         {
