@@ -1,10 +1,5 @@
 [
     {
-      "name": "Swift Client",
-      "status": "closed",
-      "desc": "Swift Minecraft Client is a Minecraft modification designed to gain an advantage against other players and as a tool to help you win your games and matches with undetectable bypasses and polished QoL features"
-    },
-    {
       "name": "Swift HLL",
       "status": "closed",
       "desc": "Swift HLL is the name for a Hell Let Loose (HLL) modification to assist you in competitive games, using our proprietary kernel driver to remain 100% undetected",
@@ -23,17 +18,6 @@
         {
           "info": "Repository",
           "url": "https://github.com/SwiftPrj/SwiftCPU"
-        }
-      ]
-    },
-    {
-      "name": "Swift Injectable",
-      "status": "unfinished",
-      "desc": "For lack of a better name, this is an injectable CS2 modification, to help you win your games and matches while going fully undetected, using our exclusive methods of hijacking the game's functionality",
-      "links": [
-        {
-          "info": "Repository",
-          "url": "https://github.com/SwiftPrj/SwiftInjectable"
         }
       ]
     },
