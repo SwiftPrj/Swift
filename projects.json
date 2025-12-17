@@ -1,12 +1,12 @@
 [
     {
-      "name": "Swift HLL",
+      "name": "JGuard",
       "status": "closed",
-      "desc": "Swift HLL is the name for a Hell Let Loose (HLL) modification to assist you in competitive games, using our proprietary kernel driver to remain 100% undetected",
+      "desc": "JGuard is the name of our custom Java bytecode obfuscation solution, it includes advanced transformers such as advanced string encryption, method renaming, flow obfuscation, and many more! Will be sold once it reaches a stable build.",
       "links": [
         {
-          "info": "Showcase",
-          "url": "https://www.youtube.com/watch?v=DUkq8zXWPmI&t=0s"
+          "info": "Discord",
+          "url": "https://discord.gg/bpXacmVEud"
         }
       ]
     },
