@@ -1,5 +1,16 @@
 [
     {
+      "name": "Swift Vision",
+      "status": "open",
+      "desc": "Smart Glasses that use Micro-OLED displays to increase perceived vision in retinal diseases such as Retinitis Pigmentosa.",
+      "links": [
+        {
+          "info": "Website",
+          "url": "https://vision.swiftproject.top"
+        }
+      ]
+    },
+    {
       "name": "JGuard",
       "status": "closed",
       "desc": "JGuard is the name of our custom Java bytecode obfuscation solution, it includes advanced transformers such as advanced string encryption, method renaming, flow obfuscation, and many more! Will be sold once it reaches a stable build.",
@@ -41,17 +52,6 @@
       "name": "Swift Driver",
       "status": "closed",
       "desc": "A proprietary kernel-driver. Used for memory operations (ex: Reading & Writing memory)"
-    },
-    {
-      "name": "Swift EAC",
-      "status": "open",
-      "desc": "An attempt at a EAC Emulator",
-      "links": [
-        {
-          "info": "Repository",
-          "url": "https://github.com/SwiftPrj/SwiftEAC"
-        }
-      ]
     },
     {
       "name": "Swift Upload",
